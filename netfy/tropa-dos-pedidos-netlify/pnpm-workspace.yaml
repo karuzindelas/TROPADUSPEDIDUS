@@ -1,8 +1,0 @@
-allowBuilds:
-  esbuild: true
-  netlify-cli: true
-  sharp: false
-  unix-dgram: false
-onlyBuiltDependencies:
-  - esbuild
-  - netlify-cli
